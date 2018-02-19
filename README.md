@@ -1,5 +1,10 @@
 # Excel-video-from-boating-gps
 
+## ToDo
+* provide code to transform and enrich gpx data 
+* provide step by step guide to generate video with Microsoft Excel
+
+## Examples of generated Videos
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NdXoyvhgcLE" target="_blank">
   <img src="http://img.youtube.com/vi/NdXoyvhgcLE/0.jpg" 
   alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
